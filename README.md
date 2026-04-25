@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 Hi, I'm Sandra
 
-<!--
-**isonsandrak-wq/isonsandrak-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A fraud strategy leader passionate about using data to protect both people and businesses.
 
-Here are some ideas to get you started:
+### 🛡️ What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For me, fraud prevention is about more than just rules and analytics—it's about trust, customer experience, and reducing harm. I use this space to share the technical side of my work.
+*   **SQL:** For KPI tracking and deep-dive loss analysis.
+*   **Python:** To build automation for chargeback workflows.
+*   **Tools:** Databricks, Snowflake, Panther, SQLServer, Tableau.
+
+### 📊 GitHub Portfolio
+
+I'm using GitHub to demonstrate the technical skills that support my strategic work. Check out my repositories to see examples of:
+*   Fraud Operations & Investigator Productivity
+*   Loss Forecasting & Reporting
+
+### 📫 Let's Connect
+
+*   **[My LinkedIn Profile](https://www.linkedin.com/in/sandraison)**
