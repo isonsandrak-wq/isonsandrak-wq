@@ -12,6 +12,7 @@ For me, fraud prevention is about more than just rules and analytics—it's abou
 ### 📊 GitHub Portfolio
 
 I'm using GitHub to demonstrate the technical skills that support my strategic work. Check out my repositories to see examples of:
+*   Identifying Financial Crimes Red Flags in Data
 *   Fraud Operations & Investigator Productivity
 *   Loss Forecasting & Reporting
 
