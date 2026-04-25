@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Sandra
 
-A fraud strategy leader passionate about using data to protect both people and businesses.
+A financial crimes leader passionate about using data and tehcnology to protect both people and businesses.
 
 ### 🛡️ What I Do
 
